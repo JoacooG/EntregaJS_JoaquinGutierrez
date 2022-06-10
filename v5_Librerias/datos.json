@@ -1,0 +1,7 @@
+[
+    {"Nombre": "AirMax", "Precio": 27899, "Logo":"./img/nike1.png", "Stock": 2},
+    {"Nombre": "AirJordan", "Precio": 23199, "Logo":"./img/nike2.png", "Stock": 4},
+    {"Nombre": "Yeezy", "Precio": 16700, "Logo":"./img/adidas1.png", "Stock": 6},
+    {"Nombre": "Originals", "Precio": 18900, "Logo":"./img/adidas2.png", "Stock": 5}
+    
+]
